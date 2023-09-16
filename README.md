@@ -8,4 +8,13 @@ This is a sample code for persistent homological cell tracking technology.
 Model images are in the Supplementary Information of the above paper.
 
 # Citation
-[citation.txt](https://github.com/TopologicalBird/PersistentHomologicalCellTrackingTechnology/files/12639909/citation.txt)
+```@article{oda2023persistent,
+  title={Persistent homological cell tracking technology},
+  author={Oda, Haruhisa and Tonami, Kazuo and Nakata, Yoichi and Takubo, Naoko and Kurihara, Hiroki},
+  journal={Scientific Reports},
+  volume={13},
+  number={1},
+  pages={10882},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}```

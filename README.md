@@ -8,7 +8,8 @@ This is a sample code for persistent homological cell tracking technology.
 Model images are in the Supplementary Information of the above paper.
 
 # Citation
-```@article{oda2023persistent,
+```
+@article{oda2023persistent,
   title={Persistent homological cell tracking technology},
   author={Oda, Haruhisa and Tonami, Kazuo and Nakata, Yoichi and Takubo, Naoko and Kurihara, Hiroki},
   journal={Scientific Reports},
@@ -17,4 +18,5 @@ Model images are in the Supplementary Information of the above paper.
   pages={10882},
   year={2023},
   publisher={Nature Publishing Group UK London}
-}```
+}
+```
